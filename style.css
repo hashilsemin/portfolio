@@ -131,7 +131,10 @@ h5 a:hover,
 h6 a:hover {
     opacity: .8
 }
-
+.error{
+    color: red;
+    
+}
 a {
     color: #222222;
     text-decoration: none;
